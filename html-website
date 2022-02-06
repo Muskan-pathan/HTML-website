@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <h1> Places to visit in India </h1>
+        <main>
+            <p> click here to view the top 5 places in India <a href="https://Top_5_Places.com" target="_blank">Top 5 places</a> </p>
+            <h2>1. Manali </h2>
+            
+            <img src="manali-a-popular-hill-station-in-himachal-pradesh-india-2F996YD.jpg" width="400" height="300">
+            <p> Popular thigs to do in Manali: </p>
+            <ul>
+                <li>Hiking</li>
+                <li>Rafting
+                <li>Paragliding</li>
+                <li>Riverside Camping</li>
+            </ul>
+            <h2>2. Andaman & Nicobar </h2>
+            <img src="wp7333479-andaman-and-nicobar-islands-hd-wallpapers.png" width="400" height="300">
+            <p>Popular things to do in Andaman & Nicobar:</p>
+            <ul>
+                <li>Scuba Diving</li>
+                <li>Snorkelling</li>
+                <li>Sea Walking</li>
+                <li>Island Trekking</li>
+            </ul>
+            <h2>3. Agra </h2>
+            <img src="taj-mahal-g16eb37a29_1920.jpg" width"400" height="300">
+            <p>Places to visit in Agra:</p>
+            <ul>
+                <li>Taj Mahal</li>
+                <li>Fatehpur Sikri</li>
+                <li>Agra Fort</li>
+                <li>Itimad-ud-daulah's Tomb</li>
+                </li>
+            </ul>
+            <h2>4. Delhi </h2>
+            <img src="shalender-kumar-XjKaPInYVCM-unsplash.jpg" width="400" height="300">
+            <p>Places to visit in Delhi:</p>
+            <ul>
+                <li>Red Fort</li>
+                <li>Lotus Temple</li>
+                <li>Qutab Minar</li>
+                <li>Humayun's Tomb</li>
+            </ul>
+            <h2>5. Karnataka</h2>
+            <img src="syed-ali-l2OdGlshGC0-unsplash.jpg" width="400" height="300">
+            <p>places to visit in Karnataka</p>
+            <ul>
+                <li>Coorg</li>
+                <li>Badami</li>
+                <li>Mysore</li>
+                <li>Hampi</li>
+            </ul>
+               <form action="/submit your comment">
+            <p>Have you ever visit any of these places</p>
+               <label for="Yes"><input id="Yes" type="radio" name="Yes-No">Yes</label><br>
+                <label for="No"><input id="No" type="radio" name="Yes-No">No</label><br>
+                <input type="text" placeholder="write your comment"><br>
+                <button type="submit">submit</button>
+            </form>
+        </main>
+        <footer>
+            <p>No Copyright- <a href="https://Index.org">Index.org</a></p>
+        </footer>
+    </body>
+</html>
